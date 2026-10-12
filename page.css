@@ -1,0 +1,19 @@
+body
+{
+    background-color: crimson;
+    color: black;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h1{
+    color: darkkhaki;
+}
+.about{
+    background-color: beige;
+}
+
+.h1services{
+    color: chartreuse;
+    font-size: xx-small;
+}
